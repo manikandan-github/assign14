@@ -1,3 +1,3 @@
 FROM manikandansaravanan/test
-ADD ./var/www/html
+ADD . /var/www/html
 
